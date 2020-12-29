@@ -1,0 +1,121 @@
+[
+    {
+        "pps_id": "1",
+        "group_details": {
+            "group_id": "1",
+            "bin_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "enabled": "true"
+        }
+    },
+    {
+        "pps_id": "2",
+        "group_details": {
+            "group_id": "1",
+            "bin_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "enabled": "true"
+        }
+    },
+    {
+        "pps_id": "3",
+        "group_details": {
+            "group_id": "1",
+            "bin_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "enabled": "true"
+        }
+    },
+    {
+        "pps_id": "4",
+        "group_details": {
+            "group_id": "1",
+            "bin_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "enabled": "true"
+        }
+    },
+    {
+        "pps_id": "5",
+        "group_details": {
+            "group_id": "1",
+            "bin_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "enabled": "true"
+        }
+    },
+    {
+        "pps_id": "6",
+        "group_details": {
+            "group_id": "1",
+            "bin_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "enabled": "true"
+        }
+    },
+    {
+        "pps_id": "7",
+        "group_details": {
+            "group_id": "1",
+            "bin_ids": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "enabled": "true"
+        }
+    }
+]
